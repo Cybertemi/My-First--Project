@@ -1,0 +1,6 @@
+My Programming Goals:
+--Be proficient with Git & Github
+--Be well exoerienced with Bash scripting
+--Solve real world problems
+--Get a job as a Cloud Security Professional
+
